@@ -1,0 +1,10 @@
+Requirements for Stocks Predictions Project
+
+• numpy
+• matplotlib
+• mplfinance
+• pandas
+• scikit-learn
+• yfinance
+• tensorflow/keras
+
